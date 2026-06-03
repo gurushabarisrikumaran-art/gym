@@ -1,0 +1,88 @@
+# 💪 Built Different — Personal Fitness Brand Website
+
+> *"Fitness is not a hobby. It's a lifestyle."*
+
+A cinematic, dark-themed personal brand website for a serious gym enthusiast. Built with pure HTML, CSS, and JavaScript — no frameworks.
+
+---
+
+## 🔗 Live Demo
+
+https://adorable-tulumba-eda64d.netlify.app/
+
+---
+
+## 📸 Preview
+
+<!-- Add a screenshot after deployment -->
+![Built Different Preview](images/hero.png)
+
+---
+
+## 📁 Project Structure
+
+```
+built-different/
+├── index.html        # Main HTML file
+├── style.css         # All styles
+├── script.js         # Scroll animations & interactions
+└── images/
+    ├── hero.png      # Hero background
+    ├── profile.png   # Profile photo
+    └── gallery.png   # Gallery image
+```
+
+---
+
+## 🧩 Sections
+
+| Section | Description |
+|---|---|
+| **Hero** | Full-screen banner with glitch text effect |
+| **About** | Personal story and training background |
+| **Stats** | PR numbers — Bench, Squat, Deadlift |
+| **Philosophy** | Training principles and mindset |
+| **Split** | 6-day Push/Pull/Legs workout plan |
+| **Nutrition** | Macros and daily supplement stack |
+| **Gallery** | Training photo grid |
+| **Contact** | Message form + social links |
+
+---
+
+## ⚙️ Tech Stack
+
+- **HTML5** — Semantic structure
+- **CSS3** — Custom properties, Grid, Flexbox, animations
+- **Vanilla JavaScript** — Scroll reveal, hamburger menu
+- **Google Fonts** — Bebas Neue + Inter
+
+---
+
+## 🌐 Deployment
+
+Works on any static host:
+
+- **Netlify** — Drag and drop the folder at [netlify.com](https://netlify.com)
+
+---
+
+## ✏️ Customization
+
+| What to change | Where |
+|---|---|
+| Name / brand | `index.html` → navbar logo & footer |
+| PR numbers | `index.html` → `#stats` section |
+| Workout split | `index.html` → `#split` section |
+| Macros | `index.html` → `#nutrition` section |
+| Colors / fonts | `style.css` → CSS variables at top |
+| Photos | Replace files inside `/images/` |
+
+---
+
+## 📄 License
+
+This project is open for personal use and portfolio purposes.
+
+---
+
+**Built by [Antigravity]                            
